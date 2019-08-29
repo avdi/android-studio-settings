@@ -1,0 +1,9 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="selectedTheme" value="MONOKAI" />
+    <option name="userId" value="-7bb723af:16c910008d8:-8000" />
+    <option name="version" value="3.10.0" />
+  </component>
+</application>
